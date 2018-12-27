@@ -1,0 +1,3 @@
+rootProject.name = 'VideoCallingApp'
+
+include ':app'
